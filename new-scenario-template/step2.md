@@ -1,4 +1,4 @@
-# Die Dimensionen von Dataquality
+# Die Kriteren von Dataquality
 
 In Tabelle 1 zu sehen sind, die unterschiedlichen Kriterien an der die Qualität der Daten bewerter werden kann.
 Hierbei ist es nicht von Nöten jedes Kriterium vollkommen zu erfüllen. 
@@ -8,5 +8,7 @@ Hierbei ist es nicht von Nöten jedes Kriterium vollkommen zu erfüllen.
   <img src="DataqualityDimensions2.PNG">
   Sources: https://cdn.ymaws.com/edmcouncil.org/resource/collection/28B06485-3F13-498E-9856-FABC4CA29FAF/DCAM_DQ_Dimensions.pdf
 </p>
+
+Sollte das Bild nicht dargestellt werden können, kannst du über den Link die Tabelle anschauen.
 
 Im nächsten Schritt wollen wir endlich mit einem Beispielsdatensatz arbeiten und versuchen schlechte Daten zu finden.

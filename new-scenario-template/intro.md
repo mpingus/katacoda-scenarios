@@ -3,7 +3,8 @@ Willkommen zu einem Beginner-Tutorial rund um das Thema Dataquality.
 
 ## Abstract
 
-Lorem Ipsum
+Dieser Kurs dreht sich um das Thema Datenqualität. Zu Beginn wollen wir über die Notwendigkeit und die Kriterien
+zur Bewertung von Datenqualität sprechen. Anschließen wollen wir gemeinsam anhand eines Beispieldatensatzes schlechte Daten erkennen.
 
 
 ## Lernziele
@@ -20,8 +21,11 @@ Dieses Tutorial richtet sich an alle Neulinge rund um den Bereich Dataquality un
 
 ## Agenda
 
-- Einführung in Dataquality
-- 
+- Die Notwendigkeit guter Datenqualität
+- Die Kriterien von Dataquality
+- Einrichten des Setups
+- Analyse des Beispieldatensatzes
+- Du bist am Zug!
 - Quellenverzeichnis
 
 

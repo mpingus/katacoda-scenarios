@@ -1,4 +1,9 @@
 # Die Dimensionen von Dataquality
 
-![DataDim](.\assets\DataqualityDimensions.PNG)
+![DataDim](.\images\DataqualityDimensions.PNG)
+
+
+
+
+![Pengu](.images/Pengu.png)
 

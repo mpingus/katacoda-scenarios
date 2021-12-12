@@ -8,7 +8,8 @@ Verwende hierzu folgenden Befehl.
 
 
 
-```python
+```
+python
 print("Hello World")
 ```{{execute}}
 

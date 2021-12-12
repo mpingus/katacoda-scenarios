@@ -1,9 +1,7 @@
 # Die Dimensionen von Dataquality
 
-![DataDim](.\images\DataqualityDimensions.PNG)
+Zu sehen hier ist 
 
-
-
-
-![Pengu](.\assets\pengu.png)
-
+<p float="left" style="text-align:center;font-size:9px;line-height:30px;padding-right:3%">
+  <img src="./images/DataqualityDimensions.PNG">
+</p>

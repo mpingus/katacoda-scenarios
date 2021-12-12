@@ -13,6 +13,9 @@ python
 print("Hello World")
 ```{{execute}}
 
+
+
 `import pandas as pd`{{execute}}
 
+`df = pd.read_csv('./dataset/dataset.csv')` {{execute}}
 

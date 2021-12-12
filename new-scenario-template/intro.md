@@ -6,17 +6,24 @@ Willkommen zu einem Beginner-Tutorial rund um das Thema Dataquality.
 Lorem Ipsum
 
 
-## Learning Objective
+## Lernziele
 
-- Lorem
-- Ipsum
-- Dolor
+Folgende Dinge solltest du nach Abschluss dieses Szenarios können/wissen
+- Was ist Datenqualität und wieso ist sie so wichtig?
+- Die Dimensionen der Datenqualität
+- CSV-Daten einlesen und analysieren mithilfe von „Numpy-Pandas“
 
-## Prerequisite Skills
 
-Dieses Tutorial richtet sich an alle Neulinge rund um den Bereich Dataquality und Datacleaning. Du solltest jedoch Grundkenntnisse zu Python und im besten Fall auch bereits mit der Bibliothek "Pandas" gearbeitet haben.
+## Vorausgesetze Skills
 
-## Table of Contents
+Dieses Tutorial richtet sich an alle Neulinge rund um den Bereich Dataquality und Datacleaning. Du solltest jedoch Grundkenntnisse zu Python und im besten Fall auch bereits mit der Bibliothek "Numpy-Pandas" gearbeitet haben.
+
+## Agenda
+
+- Einführung in Dataquality
+- 
+- Quellenverzeichnis
+
 
 
 

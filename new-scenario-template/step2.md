@@ -1,8 +1,4 @@
-# Heading for Step 2
+# Die Dimensionen von Dataquality
 
-This is some text.
-
-Here's a single line of runnable code:
-
-`printf 'Jello, world!\n\n'`{{execute}}
+Hier findest du 
 

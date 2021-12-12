@@ -1,11 +1,10 @@
-# Einführung in Dataquality
+# Die Notwendigkeit guter Datenqualität
 
-Dataquality
 
 Daten bilden das Fundament digitaler Systeme. Schlechte Datenqualität kann erhebliche soziale oder ökonomische Einflüsse ausüben. Im schlimmsten Fall können fehlerhafte Daten sogar zum Verlust von Menschenleben führen (vgl. Wang und Strong 1996 S.5). 
 Hierzu einige Beispiele der Vergangenheit, in denen eine schlechte Datenqualität zu katastrophalen Folgen führte:
 - 1983 gingen einer Boeing 767-200 mitten im Flug der 
-  Treibstoff  aus. Ursache hierfür war zum einen ein defekter Sensor und eine fehlerhafte Umrechnung von Masse in Volumen aufgrund falscher Metriken (vgl. Merran Williams)
+  Treibstoff  aus. Ursache hierfür war zum einen ein defekter Sensor, zum anderen eine fehlerhafte Umrechnung von Masse in Volumen aufgrund falscher Metriken (vgl. Merran Williams)
 - Der Mars Polar Lander zerschellte während des Landevorgangs auf
   den Mars im Dezember 1999. Ursache hierfür, vermutet man, war ein defekter Sensor, der den Kontakt mit der Marsoberfläche bestätigen sollte. Infolgedessen wurden noch im Landeanflug die Bremsraketen verfrüht abgeschaltet und die Sonde ging verloren (vgl. JPL Special Review Board 2000 S.20 ff.).
 

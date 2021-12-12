@@ -1,4 +1,4 @@
 # Die Dimensionen von Dataquality
 
-![DataDim](./assets/DataqualityDimensions.PNG)
+![DataDim](.\assets\DataqualityDimensions.PNG)
 

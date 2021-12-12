@@ -17,5 +17,5 @@ print("Hello World")
 
 `import pandas as pd`{{execute}}
 
-`df = pd.read_csv('./dataset/dataset.csv')` {{execute}}
+`df = pd.read_csv('dataset.csv')`{{execute}}
 

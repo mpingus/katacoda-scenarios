@@ -5,5 +5,5 @@
 
 
 
-![Pengu](.images/Pengu.png)
+![Pengu](./images/Pengu.png)
 

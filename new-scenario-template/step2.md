@@ -1,4 +1,4 @@
 # Die Dimensionen von Dataquality
 
-Hier findest du 
+![DataDim](./assets/DataqualityDimensions.PNG)
 

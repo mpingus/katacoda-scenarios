@@ -1,8 +1,8 @@
 {
-  "title": "New Scenario Template",
-  "description": "A simple scenario example.",
+  "title": "Eine Einführung in Dataquality",
+  "description": "Einführung und ein simpler Use-Case rund um das Thema Dataquality.",
   "difficulty": "Beginner",
-  "time": "3 minutes",
+  "time": "5 minutes",
   "details": {
     "steps": [
       {
@@ -24,7 +24,12 @@
     },
     "finish": {
       "text": "finish.md"
-    }
+    },
+    "assets": {
+			"client": [
+				{ "file": "*", "target": "~/" }
+			]
+		}
   },
   "environment": {
     "uilayout": "terminal"

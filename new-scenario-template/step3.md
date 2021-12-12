@@ -8,7 +8,7 @@ Verwende hierzu folgenden Befehl.
 
 
 
-`print("Hello World")`{{execute}}
+`python \n print("Hello World")`{{execute}}
 
 
 `import pandas as pd`{{execute}}

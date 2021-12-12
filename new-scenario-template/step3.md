@@ -8,8 +8,9 @@ Verwende hierzu folgenden Befehl.
 
 
 
-`python \n print("Hello World")`{{execute}}
-
+```python
+print("Hello World")
+```{{execute}}
 
 `import pandas as pd`{{execute}}
 

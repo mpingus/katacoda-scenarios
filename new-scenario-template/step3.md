@@ -1,8 +1,16 @@
-# Heading for Step 3
+# Analyse eines Datensatzes
 
-This is some text.
+In diesem Schritt werden wir mit einem Beispieldatensatz arbeiten.
+Hierzu werden wir die Python Bibliothek "Numpy-Pandas" verwenden.
 
-Here's a single line of runnable code:
+Im ersten Schritt solltest du daher diese Biblithek importieren.
+Verwende hierzu folgenden Befehl.
 
-`printf 'Cello, world!\n\n'`{{execute}}
+
+
+`print("Hello World")`{{execute}}
+
+
+`import pandas as pd`{{execute}}
+
 

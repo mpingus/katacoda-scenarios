@@ -35,6 +35,6 @@
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "ubuntu:2004"
+    "imageid": "python:3.8"
   }
 }
